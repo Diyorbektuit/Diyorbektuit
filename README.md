@@ -32,6 +32,6 @@ Security: Implementing robust measures for file management and access control.
 🧩 Get In Touch
 I’m open to collaboration and discussion on exciting projects. Feel free to reach out if you have questions or want to chat about tech!
 
-Email: [Your Email]
-LinkedIn: [Your LinkedIn Profile]
-Twitter: [Your Twitter Handle]
+Email: xazratqulovdiyorbek2004@gmail.com
+LinkedIn: https://www.linkedin.com/in/diyorbek-xazratqulov-6b060728a/
+
